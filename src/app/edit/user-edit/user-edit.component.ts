@@ -65,5 +65,4 @@ export class UserEditComponent implements OnInit {
       this.user = resp
     })
   }
-
 }
